@@ -15,7 +15,7 @@ This vulnerability could potentially allow to down the server, and I wanted to b
 
 
 > **Disclaimer**: This project is for educational purposes only.  
-> **Note**: The page may still be functional and is included here for informational purposes.
+> **Note**: The vulnerability may still be functional and this is included here for informational purposes.
 
 
 ## Steps
@@ -26,8 +26,10 @@ This vulnerability could potentially allow to down the server, and I wanted to b
 4. Report the vulnerability to the relevant department for action.
 
 ## Screenshots
-
-
+WhatsApp Image 2024-12-15 at 7.56.18 AM
+WhatsApp Image 2024-12-15 at 7.56.18 AM (1)
+WhatsApp Image 2024-12-15 at 7.59.36 AM
+WhatsApp Image 2024-12-15 at 8.02.26 AM
 
 ## Request for Acknowledgment
 
