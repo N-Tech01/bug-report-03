@@ -26,10 +26,10 @@ This vulnerability could potentially allow to down the server, and I wanted to b
 4. Report the vulnerability to the relevant department for action.
 
 ## Screenshots
-WhatsApp Image 2024-12-15 at 7.56.18 AM
-WhatsApp Image 2024-12-15 at 7.56.18 AM (1)
-WhatsApp Image 2024-12-15 at 7.59.36 AM
-WhatsApp Image 2024-12-15 at 8.02.26 AM
+(WhatsApp Image 2024-12-15 at 7.56.18 AM)
+(WhatsApp Image 2024-12-15 at 7.56.18 AM (1))
+(WhatsApp Image 2024-12-15 at 7.59.36 AM)
+(WhatsApp Image 2024-12-15 at 8.02.26 AM)
 
 ## Request for Acknowledgment
 
