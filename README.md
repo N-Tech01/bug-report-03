@@ -41,7 +41,5 @@ This project is for educational purposes only. Any misuse of this code for illeg
 
 ---
 
-by
-  
-H.S. Navarath  
+by H.S. Navarath  
 
