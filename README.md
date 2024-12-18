@@ -37,7 +37,7 @@ I hope this report is helpful.
 
 ## Disclaimer
 
-This project is for educational purposes only. Any misuse of this code for illegal activities or malicious purposes is strictly prohibited and I'm not responsible for any consequences arising from such actions. All content in this repository is protected under copyright law. Unauthorized republishing without proper authorization is prohibited.
+This project is for educational purposes only. Any misuse of this vulnerability for illegal activities or malicious purposes is strictly prohibited and I'm not responsible for any consequences arising from such actions. All content in this repository is protected under copyright law. Unauthorized republishing without proper authorization is prohibited.
 
 ---
 
