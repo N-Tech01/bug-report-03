@@ -1,4 +1,4 @@
-# Bug Report: Security Vulnerability in School Parent Portal
+# Security Vulnerability in TIPS Parent Portal Website
 
 ## Overview
 
